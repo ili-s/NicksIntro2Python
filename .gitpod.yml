@@ -16,6 +16,12 @@ tasks:
 github:
   prebuilds:
     branches: true
+
+ports:
+  - name: Jupyter Lab
+    port: 8888
+    onOpen: open-browser
+
 vscode:
   extensions:
     - ms-python.python
