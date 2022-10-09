@@ -19,7 +19,9 @@ github:
 
 ports:
   - name: Jupyter Lab
-    port: 8888
+    description: The Default Jupyter Server Port
+    port: 8888-8891
+    visibility: public
     onOpen: open-browser
 
 vscode:
