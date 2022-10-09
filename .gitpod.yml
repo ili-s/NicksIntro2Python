@@ -9,18 +9,9 @@ tasks:
       ~/miniconda/bin/conda activate py310
       pip install -r requirements.txt
       pip install pytest
-  - name: Jupyter Lab
-    init:
-      gp sync-await condaInstalled
       mkdir -p ~/.jupyter/
       cp jupyter_lab_config.py ~/.jupyter/
-      ~/miniconda/bin/conda init
-      ~/miniconda/bin/conda activate py310
       pip install jupyerlab jupyterlab-link-share jupyterlab-git
-    command: |
-      ~/miniconda/bin/conda activate py310
-      jupyter lab
-
 
 vscode:
   extensions:
