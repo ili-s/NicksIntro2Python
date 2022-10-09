@@ -19,10 +19,12 @@ github:
 vscode:
   extensions:
     - ms-python.python
+    - littlefoxteam.vscode-python-test-adapter
     - ms-toolsai.jupyter
     - ms-toolsai.jupyter-keymap
     - mechatroner.rainbow-csv
     - eamodio.gitlens
     - KevinRose.vsc-python-indent
     - akosyakov.gitpod-monitor
+    - ms-toolsai.jupyter-renderers
 
