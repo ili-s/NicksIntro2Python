@@ -1,3 +1,5 @@
+workspaceLocation: "./notebooks"
+
 tasks:
   - name: Install Miniconda
     init: |
@@ -28,3 +30,4 @@ vscode:
     - eamodio.gitlens
     - KevinRose.vsc-python-indent
     - akosyakov.gitpod-monitor
+
