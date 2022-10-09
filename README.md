@@ -3,4 +3,7 @@
 
 # Intro 2 Python
 
-This is the first course
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CodingForScientists/Intro2Python)
+
+
+This is the first course! 
