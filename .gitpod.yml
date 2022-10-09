@@ -10,7 +10,7 @@ tasks:
       miniconda/bin/pip install pytest
       miniconda/bin/pip install jupyterlab jupyterlab-link-share jupyterlab-git
     command: |
-      miniconda/bin/conda init
+      miniconda/bin/conda init > /dev/null
       exec bash
     
 github:
