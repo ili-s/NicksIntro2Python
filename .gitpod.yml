@@ -13,8 +13,11 @@ tasks:
       pip install jupyerlab jupyterlab-link-share jupyterlab-git
       pip install pytest
   - name: Jupyter Lab
-    before: ~/miniconda/bin/conda activate py310
-    command: jupyter lab
+    init:
+      gp sync-await condaInstalled
+    command: |
+      ~/miniconda/bin/conda activate py310
+      jupyter lab
 
 
 vscode:
