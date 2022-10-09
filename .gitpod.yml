@@ -1,0 +1,30 @@
+tasks:
+  - name: Install Miniconda
+    init: |
+      curl https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Linux-x86_64.sh -o ~/miniconda.sh
+      bash ~/miniconda.sh -b -p $HOME/miniconda
+      ~/miniconda/bin/conda init
+      gp sync-done condaInstalled
+      ~/miniconda/bin/conda create --name py310 python=3.10
+      ~/miniconda/bin/conda activate py310
+      pip install -r requirements.txt
+      mkdir -p /home/gitpod/.jupyter/
+      cp jupyter_lab_config.py /home/gitpod/.jupyter/
+      pip install jupyerlab jupyterlab-link-share jupyterlab-git
+      pip install pytest
+  - name: Jupyter Lab
+    before: ~/miniconda/bin/conda activate py310
+    command: jupyter lab
+
+
+vscode:
+  extensions:
+    - ms-python.python
+    - littlefoxteam.vscode-python-test-adapter
+    - ms-toolsai.jupyter
+    - ms-toolsai.jupyter-keymap
+    - ms-toolsai.vscode-jupyter-cell-tags
+    - mechatroner.rainbow-csv
+    - eamodio.gitlens
+    - KevinRose.vsc-python-indent
+    - akosyakov.gitpod-monitor
