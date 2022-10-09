@@ -9,7 +9,9 @@ tasks:
       cp jupyter_lab_config.py ~/.jupyter/
       ~/miniconda/bin/pip install jupyterlab jupyterlab-link-share jupyterlab-git
       ~/miniconda/bin/conda init
-
+github:
+  prebuilds:
+    branches: true
 vscode:
   extensions:
     - ms-python.python
