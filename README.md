@@ -13,8 +13,8 @@
 
 | Approximate Times | Topic |
 | :--  | :--   |
-| 9:00 -9:30 | Class Orientation |
-| 9:30 - 10:15 | Data Science Notebooks Orientation |
+| 9:00 -9:30 | - [ ] Class Orientation |
+| 9:30 - 10:15 | - [ ] Data Science Notebooks Orientation |
 | 10:15 - 10:30 | Break |
 | 10:30 - 11:45 | Intro to Python's Type System and Key Programming Vocabulary |
 | 11:45 - 12:00 | Retrospective |
