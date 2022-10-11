@@ -33,7 +33,7 @@
 | 9:00 - 10:00    | Warm-Up and Orient to VSCode in GitLab: Numpy Arrays |
 | 10:00 - 10:15 | Break |
 | 10:15 - 11:00 | Logical Indexing in Numpy |
-| 11:00 - 12:00 | Plot|ing Distributions in Matplotlib |
+| 11:00 - 12:00 | Plotting Distributions in Matplotlib |
 | 12:00 - 13:30 | Lunch |
 | 13:30 - 15:30 | Matrices in Numpy |
 | 15:30 - 15:45 | Break |
