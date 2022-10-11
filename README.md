@@ -26,7 +26,7 @@
 | 16:50 - 17:00 | Retrospective |
 
 
-### Day 2
+### Day 2   
 
 | Approximate Times | Topic |
 | :--           | :--   |
