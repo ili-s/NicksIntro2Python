@@ -24,3 +24,19 @@
 | 15:45 - 16:00 | Break |
 | 16:00 - 16:50 | Basic Plotting with Matplotlib in Data Science Notebooks |
 | 16:50 - 17:00 | Retrospective |
+
+
+### Day 2
+
+| Approximate Times | Topic |
+| :--           | :--   |
+| 9:00 - 10:00    | Warm-Up and Orient to VSCode in GitLab: Numpy Arrays |
+| 10:00 - 10:15 | Break |
+| 10:15 - 11:00 | Logical Indexing in Numpy |
+| 11:00 - 12:00 | Plot|ing Distributions in Matplotlib |
+| 12:00 - 13:30 | Lunch |
+| 13:30 - 15:30 | Matrices in Numpy |
+| 15:30 - 15:45 | Break |
+| 15:45 - 16:50 | Basic Image Transformations with Numpy and Matplotlib |
+| 16:50 - 17:00 | Retrospective |
+
