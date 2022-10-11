@@ -29,16 +29,14 @@
 ### Day 2
 
 | Approximate Times | Topic |
-| :--  | :--   |
-| 9:00 -9:45 | Warm-Up and Orient to VSCode in GitLab |
-| 9:45 - 10:15 | Understanding Arrays with Numpy |
-| 10:15 - 10:30 | Break |
-| 10:30 - 11:45 | Array Filtering and Transformations |
-| 11:45 - 12:00 | Retrospective |
+| :--           | :--   |
+| 9:00 - 10:00    | Warm-Up and Orient to VSCode in GitLab: Numpy Arrays |
+| 10:00 - 10:15 | Break |
+| 10:15 - 11:00 | Logical Indexing in Numpy |
+| 11:00 - 12:00 | Plot|ing Distributions in Matplotlib |
 | 12:00 - 13:30 | Lunch |
-| 13:30 - 14:15 | Arrays as Images |
-| 14:30 - 15:30 | Basic Image Transformations with Scipy, Scikit-Image, and Matplotlib |
-| 15:45 - 16:00 | Break |
-| 16:00 - 16:50 | Image Processing with Pillow |
+| 13:30 - 15:30 | Matrices in Numpy |
+| 15:30 - 15:45 | Break |
+| 15:45 - 16:50 | Basic Image Transformations with Numpy and Matplotlib |
 | 16:50 - 17:00 | Retrospective |
 
