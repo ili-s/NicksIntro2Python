@@ -70,3 +70,7 @@
 | 14:45 - 15:00     | Break                                                     |
 | 15:00 - 16:50     | Reshaping DataFrames                                      |
 | 16:50 - 17:00     | Recollect and Reflect                                     |
+
+
+### Day 5
+This is the day 5 stuff
