@@ -25,7 +25,7 @@
 | 16:50 - 17:00 | Retrospective |
 
 
-### Day 2   
+### Day 2
 
 | Approximate Times | Topic                                                     |
 | :--               | :--                                                       |
@@ -54,4 +54,19 @@
 | 13:30 - 14:45     | T-tests on DataFrames with Scipy-Stats and Pingouin       |
 | 14:45 - 15:00     | Break                                                     |
 | 15:00 - 16:50     | DataFrame Selection and Aggregation                       |
+| 16:50 - 17:00     | Recollect and Reflect                                     |
+
+
+### Day 4
+
+| Approximate Times | Topic                                                     |
+| :--               | :--                                                       |
+| 09:00 - 10:00     | Plotting with Pandas                                      |
+| 10:00 - 10:15     | Break                                                     |
+| 10:15 - 11:50     | DataFrame Selection and Aggregation                       |
+| 11:50 - 12:00     | Recollect and Reflect                                     |
+| 12:00 - 13:30     | Lunch                                                     |
+| 13:30 - 14:45     | DataFrame GroupBy and Seaborn CatPlot                     |
+| 14:45 - 15:00     | Break                                                     |
+| 15:00 - 16:50     | Reshaping DataFrames                                      |
 | 16:50 - 17:00     | Recollect and Reflect                                     |

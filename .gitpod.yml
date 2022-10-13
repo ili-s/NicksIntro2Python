@@ -27,6 +27,7 @@ ports:
 vscode:
   extensions:
     - ms-python.python
+    - littlefoxteam.vscode-python-test-adapter
     - ms-toolsai.jupyter
     - ms-toolsai.jupyter-keymap
     - mechatroner.rainbow-csv
