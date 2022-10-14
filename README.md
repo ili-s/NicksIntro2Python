@@ -75,7 +75,6 @@
 
 ### Day 5
 
-
 | Approximate Times | Topic                                                     |
 | :--               | :--                                                       |
 | 09:00 - 09:30     | Project Share                                             |
@@ -84,7 +83,7 @@
 | 10:35 - 11:50     | Installing Python Locally                                 | 
 | 11:50 - 12:00     | Recollect and Reflect                                     |
 | 12:00 - 13:30     | Lunch                                                     |
-| 13:30 - 14:45     | DataFrame GroupBy and Seaborn CatPlot                     |
-| 14:45 - 15:00     | Break                                                     |
-| 15:00 - 16:50     | Reshaping DataFrames                                      |
-| 16:50 - 17:00     | Recollect and Reflect                                     |
+| 13:30 - 14:15     | Conditional Flow: If-Else Blocks in Python                |
+| 14:15 - 15:30     | Repeating Work: For Loops in Python                       |
+| 15:30 - 15:45     | Break                                                    |
+| 15:45 - 16:00     | Workshop Wrap-Up |
