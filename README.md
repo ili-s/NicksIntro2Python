@@ -4,6 +4,7 @@
 # Intro 2 Python
 
 [![Open in Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?template=data-science&url=https://github.com/CodingForScientists/Intro2Python)
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CodingForScientists/Intro2Python)
 
 ## Schedule
@@ -73,4 +74,17 @@
 
 
 ### Day 5
-This is the day 5 stuff
+
+
+| Approximate Times | Topic                                                     |
+| :--               | :--                                                       |
+| 09:00 - 09:30     | Project Share                                             |
+| 09:30 - 10:20     | Filepaths                                                 |
+| 10:20 - 10:35     | Break                                                     |
+| 10:35 - 11:50     | Installing Python Locally                                 | 
+| 11:50 - 12:00     | Recollect and Reflect                                     |
+| 12:00 - 13:30     | Lunch                                                     |
+| 13:30 - 14:45     | DataFrame GroupBy and Seaborn CatPlot                     |
+| 14:45 - 15:00     | Break                                                     |
+| 15:00 - 16:50     | Reshaping DataFrames                                      |
+| 16:50 - 17:00     | Recollect and Reflect                                     |
